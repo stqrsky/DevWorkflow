@@ -1,5 +1,5 @@
 # juliproject
----
+-----
 ## A Vue.js exercises
 - Interact with the DOM
 - Conditionals / Rendering
