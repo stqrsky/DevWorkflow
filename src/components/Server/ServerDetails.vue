@@ -10,6 +10,6 @@
 
 <style scoped>
     div {
-        border: 1px solid red;
+        border: 1px solid rgb(206, 119, 214);
     }
 </style>
