@@ -21,8 +21,8 @@
                     { id: 3, status: 'Unknown' },
                     { id: 4, status: 'Normal' }
                 ]
-            }
-        };
+            };
+        }
     }
 </script>
 
