@@ -21,7 +21,7 @@
             resetStatus() {
                 this.server.status = 'Normal';
             } 
-        }
+        },
         created() {
             serverBus.$on('serverSelected', (server) => {
                 this.server = server;
