@@ -1,13 +1,20 @@
 <template>
     <li
-            class="list-group-item">
+            class="list-group-item"
+            style="cursor: pointer"
+            @click="serverSelected">
         Server #{{ id }}
     </li>
 </template>
 
 <script>
     export default {
-        props: ['id']
+        props: ['id'],
+        methods: {
+            serverSelected() {
+                
+            }
+        }
     }
 </script>
 
